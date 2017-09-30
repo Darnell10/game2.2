@@ -5,6 +5,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
+
         System.out.println("Welcome to the world of zombies. Survival is the only thing your living for! ");
         System.out.println("Type Start to begin");
         System.out.println(" ready to begin?" + " Type Yes or no");
