@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3a13677-783c-4cb8-9f07-50753d705672" name="Default" comment="" />
+    <list default="true" id="d3a13677-783c-4cb8-9f07-50753d705672" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HW2/com/company/GameOver.class" afterPath="$PROJECT_DIR$/out/production/HW2/com/company/GameOver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/GameOver.java" afterPath="$PROJECT_DIR$/src/com/company/GameOver.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +20,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -25,9 +30,21 @@
       <file leaf-file-name="GameOver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="41" column="118" lean-forward="false" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+                <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+                <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+                <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+                <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+                <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+                <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+                <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+                <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+                <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+                <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,6 +58,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -50,16 +70,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Failedmethod.java" />
         <option value="$PROJECT_DIR$/src/com/company/GameOver.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="796" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="638" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -72,13 +93,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,19 +162,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="676" height="800" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49466667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -173,6 +187,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -217,6 +232,48 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
           <line>6</line>
@@ -225,12 +282,56 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>9</line>
+          <properties class="com.company.GameOver" method="deadhead">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/GameOver.java</url>
+          <line>20</line>
+          <properties class="com.company.GameOver" method="laugh">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -241,16 +342,400 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="30" lean-forward="false" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
           <caret line="41" column="118" lean-forward="false" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="118" lean-forward="false" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="method#deadhead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#laugh#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse1#0;class#GameOver#0" expanded="false" />
+            <element signature="method#weaponUse2#0;class#GameOver#0" expanded="false" />
+            <element signature="method#dead#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombiecop#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombie#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieHorde#0;class#GameOver#0" expanded="false" />
+            <element signature="method#ghoul#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieDog#0;class#GameOver#0" expanded="false" />
+            <element signature="method#zombieWoman#0;class#GameOver#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Failedmethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
